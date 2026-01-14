@@ -1,0 +1,35 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f4f6f8;
+  color: #222;
+  line-height: 1.7;
+}
+
+.navbar {
+  background: #0f172a;
+  padding: 15px 0;
+}
+
+.logo {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hero {
+  background: linear-gradient(120deg, #0f172a, #1e293b);
+  color: white;
+  padding: 120px 0;
+  text-align: center;
+}
+
+.btn {
+  background: #0b5ed7;
+  color: white;
+  padding: 12px 22px;
+  border-radius: 6px;
+  display: inline-block;
+  margin: 10px;
+}
