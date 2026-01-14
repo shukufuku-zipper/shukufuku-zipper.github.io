@@ -1,1 +1,0 @@
-# shukufuku-zipper.github.io
